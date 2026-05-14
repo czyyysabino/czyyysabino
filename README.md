@@ -37,5 +37,5 @@ I am Czyraine, a first-year BS Information Technology student with a passion for
 - Photography and Videography
 
 ## Contact Me
-- LinkedIn: [Czyraine Sabino](https://www.linkedin.com/in/czyraine-sabino-3a58563b9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ03AOQ%2BEQZORU9SPgLH%2Fdg%3D%3D)
+- LinkedIn: [Czyraine Sabino](https://www.linkedin.com/in/czyraine-sabino-3a58563b9)
 - Email: czyyysabino@gmail.com
