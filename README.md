@@ -9,9 +9,9 @@ I am Czyraine, a first-year BS Information Technology student with a passion for
   - 2025 - Present
 
 ## Certifications
-- [NoSQL and DBaaS 101](https://education.oracle.com)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/f7febd534aa840f6be0d2098480f1287)
+- [Data Analytics with AI](https://www.sololearn.com/certificates/CC-2DDHRD8V)
+- [Web Designing Basics](https://simpli-web.app.link/e/81NouXCS82b)
 
 ## Skill Sets
 
@@ -25,12 +25,10 @@ I am Czyraine, a first-year BS Information Technology student with a passion for
 - IBM DB2 Cloud
 
 ### Tools
-- Lucidchart
 - Eclipse
 - IntelliJ IDEA
 - PyCharm
 - Visual Studio Code
-- HTML
 
 ## Interests
 - Web Development
@@ -40,3 +38,4 @@ I am Czyraine, a first-year BS Information Technology student with a passion for
 
 ## Contact Me
 - Email: czyyysabino@gmail.com
+- [LinkedIn Profile](linkedin.com/in/czyraine-sabino-3a58563b9)
